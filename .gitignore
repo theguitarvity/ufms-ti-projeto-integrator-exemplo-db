@@ -1,0 +1,20 @@
+# =========================
+# Arquivos e pastas do Docker
+# =========================
+/postgres_data/
+*.log
+*.pid
+
+# Evita incluir volumes locais
+**/docker-volumes/*
+**/data/*
+**/tmp/*
+
+# =========================
+# Arquivos de ambiente
+# =========================
+.env
+.env.local
+.env.*.local
+
+# ===========
