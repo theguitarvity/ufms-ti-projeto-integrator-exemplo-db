@@ -11,6 +11,11 @@ O objetivo é demonstrar a integração entre modelagem de banco de dados relaci
 livraria-db/
 ├──scripts
     ├──livraria.sql          # Script SQL com criação e inserção de dados
+    ├──relatorios.sql        # Script SQL com criação de relatorios
+    ├──script_iteracao1.sql  # Script SQL com ITERAÇÃO 1
+    ├──script_iteracao2.sql  # Script SQL com ITERAÇÃO 2
+    ├──script_iteracao3.sql  # Script SQL com ITERAÇÃO 3
+    ├──script_iteracao4.sql  # Script SQL com ITERAÇÃO 4
 ├── docker-compose.yml       # Configuração do container PostgreSQL
 ├── .gitignore               # Arquivos e pastas ignoradas pelo Git
 └── README.md                # Documentação do projeto
